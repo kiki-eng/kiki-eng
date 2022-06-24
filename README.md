@@ -2,7 +2,7 @@
 ![MasterHead](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
 
 <h1 align="center">Hi 👋, I'm kiki-eng</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Full stack developer from Nigeria</h3>
 
 
 
