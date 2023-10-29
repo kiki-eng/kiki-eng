@@ -1,4 +1,4 @@
-![bestImage](https://github.com/kiki-eng/kiki-eng/assets/62561450/d15925c9-99a5-4a41-ac2b-3e001468e123)
+
 <img src="https://github.com/kiki-eng/kiki-eng/assets/62561450/d15925c9-99a5-4a41-ac2b-3e001468e123" alt="bestImage" width="300"/>
 
 <h1 align="center">Hello there, I'm Olawale Abosede Kikelomo 👋</h1>
