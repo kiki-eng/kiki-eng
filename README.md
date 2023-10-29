@@ -1,6 +1,3 @@
-Certainly! Here's your edited profile section:
-
-```markdown
 ![bestImage](https://github.com/kiki-eng/kiki-eng/assets/62561450/d15925c9-99a5-4a41-ac2b-3e001468e123)
 
 <div align="center">
