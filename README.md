@@ -1,9 +1,4 @@
 ![bestImage](https://github.com/kiki-eng/kiki-eng/assets/62561450/d15925c9-99a5-4a41-ac2b-3e001468e123)
-
-<div align="center">
-    <img src="https://github.com/kiki-eng/kiki-eng/raw/main/assets/62561450/d15925c9-99a5-4a41-ac2b-3e001468e123" alt="bestImage" width="250px"/>
-</div>
-
 <h1 align="center">Hello there, I'm Olawale Abosede Kikelomo 👋</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Open to Opportunities</h3>
 
