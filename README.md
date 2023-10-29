@@ -1,8 +1,4 @@
 ![bestImage](https://github.com/kiki-eng/kiki-eng/assets/62561450/d15925c9-99a5-4a41-ac2b-3e001468e123)
-![myImage111](https://github.com/kiki-eng/kiki-eng/assets/62561450/36dc1255-bb5c-4a32-b0c0-417b4fd3baba)
-![myImage222222](https://github.com/kiki-eng/kiki-eng/assets/62561450/d31d55f8-c433-41b2-ab79-50f8e212381a)
-
-
 <h1 align="center">Hello there, I'm Olawale Abosede Kikelomo 👋</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Open to Opportunities</h3>
 
