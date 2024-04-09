@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiki-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="kiki-eng" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://p4.wallpaperbetter.com/wallpaper/749/308/1001/anime-code-wallpaper-preview.jpg">
+
 
 - 🌱 I’m constantly learning new technologies and working on personal projects.
 - 🤝 Always open to collaborate on innovative projects.
