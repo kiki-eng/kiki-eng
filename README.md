@@ -47,7 +47,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular"></code>
 
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiki-eng&" alt="kiki-eng" /></p>
 ```
 
 
