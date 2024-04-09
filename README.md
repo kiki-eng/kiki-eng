@@ -4,7 +4,7 @@
 <h1 align="center">Hello there, I'm Olawale Abosede Kikelomo 👋</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Open to Opportunities</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiki-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="kiki-eng" /> </p>
+
 
 
 
