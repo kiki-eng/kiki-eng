@@ -1,52 +1,113 @@
+<img src="https://github.com/kiki-eng/kiki-eng/assets/62561450/d15925c9-99a5-4a41-ac2b-3e001468e123" alt="Profile Banner" width="300"/>
 
-<img src="https://github.com/kiki-eng/kiki-eng/assets/62561450/d15925c9-99a5-4a41-ac2b-3e001468e123" alt="bestImage" width="300"/>
+<h1 align="center">Hi 👋, I'm Olawale Abosede Kikelomo</h1>
 
-<h1 align="center">Hello there, I'm Olawale Abosede Kikelomo 👋</h1>
-<h3 align="center">Full-Stack Developer | Tech Enthusiast | Open to Opportunities</h3>
+<h3 align="center">
+Software Developer | .NET & Azure | Power Platform | Data Engineering | React Native
+</h3>
 
+<p align="center">
+I build scalable web, mobile, cloud, and data-driven applications using C#, ASP.NET Core, Azure, Power Platform, TypeScript, React, React Native, Python, and modern data engineering technologies.
+</p>
 
+---
 
+### 👩🏽‍💻 About Me
 
+- 💻 Software Developer focused on **C#, ASP.NET Core Web API, Azure, and TypeScript**
+- 📱 Building cross-platform mobile applications with **React Native**
+- ⚛️ Developing modern web applications with **React**
+- ☁️ Working with **Azure, Azure DevOps, Docker, and AWS**
+- 📊 Expanding my expertise in **Data Engineering, Databricks, Data Lakes, Python, and Power BI**
+- ⚡ Building business solutions with **Microsoft Power Platform**
+- 🧪 Experienced with **software testing, QA, API testing, integration testing, and CI/CD**
+- 🌱 Continuously learning cloud architecture, distributed systems, data engineering, and enterprise application development
+- 🤝 Open to collaborating on software, cloud, mobile, data, and automation projects
 
-- 🌱 I’m constantly learning new technologies and working on personal projects.
-- 🤝 Always open to collaborate on innovative projects.
-- 📫 Reach out to me at: [abosedekikelomo408@gmail.com](mailto:abosedekikelomo408@gmail.com)
-- ⚡ Fun fact: I love to travel, explore new horizons, and enjoy life to the fullest!
+📫 **Contact:** [abosedekikelomo408@gmail.com](mailto:abosedekikelomo408@gmail.com)
 
-### Let's Connect! 🌐
-[![Twitter Badge](https://img.shields.io/twitter/follow/kike_lawale?logo=twitter&style=for-the-badge)](https://twitter.com/kike_lawale)
-[![Instagram Badge](https://img.shields.io/badge/-kikel0m0-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kikel0m0)
-[![Facebook Badge](https://img.shields.io/badge/-abosede%20kikelomo-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abosede.kikelomo.125/)
+---
 
-### Technologies & Tools 🛠️
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift"></code>
+## 🛠️ Technologies & Tools
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular"></code>
+### Backend Development
 
-  
-```
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
+### Frontend & Mobile
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Microsoft Power Platform
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Cloud & DevOps
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Data Engineering & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### QA & Testing
+
+![xUnit](https://img.shields.io/badge/xUnit-.NET-512BD4?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![QA Testing](https://img.shields.io/badge/QA-Testing-blue?style=for-the-badge)
+
+---
+
+## 🚀 Current Focus
+
+- Building production-ready **ASP.NET Core Web APIs**
+- Clean Architecture and scalable backend systems
+- Authentication and Authorization with JWT
+- Unit, Integration, Smoke, API, and End-to-End Testing
+- Azure cloud application development
+- CI/CD with Azure DevOps and GitHub Actions
+- Microsoft Power Platform solutions
+- Data Engineering with Python, Databricks, Spark, and Data Lakes
+- Analytics and visualization with Power BI
+- Cross-platform development with React Native
+
+---
+
+## 🌐 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-kiki--eng-181717?style=for-the-badge&logo=github)](https://github.com/kiki-eng)
+
+[![Twitter](https://img.shields.io/badge/Twitter-kike__lawale-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kike_lawale)
+
+[![Instagram](https://img.shields.io/badge/Instagram-kikel0m0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kikel0m0)
+
+---
+
+⭐ Always learning, building, testing, and improving.
